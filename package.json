@@ -1,0 +1,23 @@
+{
+  "name": "taghub-cdn",
+  "version": "1.0.0",
+  "description": "A \"cdn\" for some public static files and scripts we need availble as remote resources.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d cdn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taghubnet/cdn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taghubnet/cdn/issues"
+  },
+  "homepage": "https://github.com/taghubnet/cdn#readme",
+  "devDependencies": {
+    "gh-pages": "^0.4.0"
+  }
+}
