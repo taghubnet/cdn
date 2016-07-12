@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 77 77" enable-background="new 0 0 77 77" xml:space="preserve">
+<g id="BACKGROUND">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="38.5" y1="77" x2="38.5" y2="-1.189619e-009">
+		<stop  offset="0" style="stop-color:#3FCFDC"/>
+		<stop  offset="1" style="stop-color:#7CCCE3"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M77,65c0,6.6-5.4,12-12,12H12C5.4,77,0,71.6,0,65V12C0,5.4,5.4,0,12,0h53c6.6,0,12,5.4,12,12V65z"/>
+</g>
+<linearGradient id="LINES_2_" gradientUnits="userSpaceOnUse" x1="37.9722" y1="77" x2="37.9722" y2="-4.638423e-011">
+	<stop  offset="0" style="stop-color:#B1DBE8;stop-opacity:0"/>
+	<stop  offset="0.2" style="stop-color:#B1DBE8"/>
+	<stop  offset="0.8" style="stop-color:#B1DBE8"/>
+	<stop  offset="1" style="stop-color:#B1DBE8;stop-opacity:0"/>
+</linearGradient>
+<path id="LINES_1_" fill="url(#LINES_2_)" d="M37,14.1V0h2v14.1l-1-0.9L37,14.1z M16.9,58v19h2V58H16.9z M35.7,47h-7.8v2h7.4
+	c0.8,0,1.7,0.6,1.7,1.7V77h2V50.3C39,48.5,37.5,47,35.7,47z M19,38v-8.6c0-0.8,0.7-1.4,1.5-1.4H25l-0.9-1l0.9-1h-4.9
+	c-1.7,0-3.1,1.5-3.1,3.4V38H19z M55.7,28c0.8,0,1.3,0.6,1.3,1.4V37c0.3,0,0.8,0,1.1,0s0.6,0,0.9,0v-7.6c0-1.9-1.5-3.4-3.3-3.4h-5.1
+	l0.9,0.9L50.6,28H55.7z"/>
+<path id="SHADOWS_1_" fill="#59A2B3" d="M26,57.3H10v-16h16V57.3z M48.8,27.2L38,17.8l-10.8,9.3v1.5L38,39.5l10.8-10.8V27.2z
+	 M66.9,48c-0.6-4.4-4.4-7.8-8.9-7.8s-8.4,3.4-8.9,7.8H49v1.2c0,5,4,9,9,9s9-4,9-9L66.9,48L66.9,48z"/>
+<g id="FIGURES">
+	<circle id="CIRCLE" fill="#FFFFFF" cx="58" cy="48" r="9"/>
+	<rect id="SQUARE" x="10" y="40" fill="#F4F57D" width="16" height="16"/>
+	
+		<rect id="RHOMBUS" x="30.3" y="19.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -8.0835 34.8285)" fill="#92FF95" width="15.3" height="15.3"/>
+</g>
+</svg>
