@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/taghubnet/cdn#readme",
   "devDependencies": {
-    "gh-pages": "^0.4.0"
+    "gh-pages": "^2.0.1"
   }
 }
